@@ -1,7 +1,7 @@
 ### Hola, I'm Hashini Munasinghe 👩‍💻
 
 
-- 🔭 I’m currently Learning on Uva Wellassa University of Sri Lanka.
+- 🔭 I’m currently Learning on Uva Wellassa University of Sri Lanka.   ![Uploading character-typing.gif…]()
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
