@@ -1,10 +1,7 @@
 ### Hola 🙌, 
 I'm Hashini Munasinghe 👩‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hashinininirasha=Profile%20views&color=129e00&style=plastic" alt="Hashini" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/52965775/103438665-1734c000-4c5b-11eb-9af2-a37a9229d132.gif)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52965775/103438665-1734c000-4c5b-11eb-9af2-a37a9229d132.gif">
 
 - 🔭 I’m currently Learning on Uva Wellassa University of Sri Lanka.  
 - 🌱 I’m currently learning Everything.
