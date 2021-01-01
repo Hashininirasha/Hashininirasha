@@ -1,7 +1,6 @@
 ### Hola, I'm Hashini Munasinghe 👩‍💻
 
-
-![character-typing](https://user-images.githubusercontent.com/52965775/103438522-b6f14e80-4c59-11eb-87ab-799ea1df1c12.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52965775/103438610-7d6d1300-4c5a-11eb-90ef-31add04016e7.gif)
 
 
 - 🔭 I’m currently Learning on Uva Wellassa University of Sri Lanka.  
