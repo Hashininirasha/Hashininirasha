@@ -7,11 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - 📫 How to reach me: 
-            📌LinkedIn - [Hashini Munasinghe](https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/)
-
-            📌Twitter -[@HashiniMunasin3](https://mobile.twitter.com/HashiniMunasin3)
-
-            📌Fackbook -[Hashini Munasinghe](https://www.facebook.com/hashini.munasinghe.503/)
+            📌LinkedIn - [Hashini Munasinghe](https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/) 📌Twitter -[@HashiniMunasin3](https://mobile.twitter.com/HashiniMunasin3) 📌Fackbook -[Hashini Munasinghe](https://www.facebook.com/hashini.munasinghe.503/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
