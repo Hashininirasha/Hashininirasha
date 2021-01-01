@@ -12,4 +12,8 @@ I'm Hashini Munasinghe 👩‍💻
 
 ### Connect with me:
 
-<img align="left" alt="https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="left">
+<!-- <a href="https://mobile.twitter.com/HashiniMunasin3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+
+</p>
