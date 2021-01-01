@@ -12,4 +12,4 @@ I'm Hashini Munasinghe 👩‍💻
 
 ### Connect with me:
 
-[<img align="left" alt="Johannes Milke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="Johannes Milke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn[enter link description here](https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/)]
