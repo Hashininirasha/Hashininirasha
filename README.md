@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://mobile.twitter.com/HashiniMunasin3**
 
-- ⚡ Fun fact **I love cording and Pets**
+- ⚡ Fun fact **I love coding and Pets**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
