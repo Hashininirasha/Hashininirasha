@@ -1,11 +1,11 @@
 <h1 align="center">Hola, 👋, I'm Hashini Munasinghe 🌸</h1>
 <h3 align="center">Undergraduate at UWU👩‍🎓||Technical Writer📄✒||Knowledge Seeker❤😊⚛️</h3>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/52965775/103438665-1734c000-4c5b-11eb-9af2-a37a9229d132.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/52965775/103438665-1734c000-4c5b-11eb-9af2-a37a9229d132.gif">
 
 
 
-<p align="left"> <a href="https://twitter.com/hashinimunasin3" target="blank"><img src="https://img.shields.io/twitter/follow/hashinimunasin3?logo=twitter&style=for-the-badge" alt="hashinimunasin3" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashininirasha&label=Profile%20views&color=0e75b6&style=flat" alt="hashininirasha" /> </p>
 
 - 🔭 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
 
