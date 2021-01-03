@@ -26,6 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Medium articles](https://hashininirashamunasinghe.medium.com/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
