@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Everything.**
 
+- 👯 I’m looking to collaborate on **Open Source projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Hashininirasha](https://github.com/Hashininirasha)
 
 - 📝 I regularly write articles on [https://hashininirashamunasinghe.medium.com/](https://hashininirashamunasinghe.medium.com/)
@@ -29,7 +31,6 @@
 <a href="https://medium.com/@hashininirashamunasinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hashininirashamunasinghe" height="30" width="40" /></a>
 </p>
 
-[foss.lk](https://blog.foss.lk/author/hashini/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
