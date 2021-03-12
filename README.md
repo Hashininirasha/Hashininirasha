@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://dev.to/dev.to hashininirasha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to hashininirasha" height="30" width="40" /></a>
 <a href="https://twitter.com/hashinimunasin3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hashinimunasin3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hashinimunasinghe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hashini-munasinghe-37a42a1a8/" height="30" width="40" /></a>
 <a href="https://fb.com/hashini munasinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hashini munasinghe" height="30" width="40" /></a>
 <a href="https://medium.com/@hashininirashamunasinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hashininirashamunasinghe" height="30" width="40" /></a>
 </p>
