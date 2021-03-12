@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Hashini Munasinghe 🌸</h1>
-<h3 align="center">Undergraduate at UWU👩‍🎓||Technical Writer📄✒||Knowledge Seeker❤😊⚛️</h3>
+<h3 align="center">Undergraduate at UWU👩‍🎓||Technical Writer📄✒||❤😊⚛️</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/52965775/103438665-1734c000-4c5b-11eb-9af2-a37a9229d132.gif">
 
